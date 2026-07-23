@@ -13,6 +13,8 @@ jobs:
   build:
     name: Update Snake Animation
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # Generates the snake
       - name: Generate github-contribution-grid-snake.svg
@@ -27,7 +29,7 @@ jobs:
 
       # Push the changes to the output branch
       - name: Push github-contribution-grid-snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
