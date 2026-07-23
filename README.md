@@ -8,7 +8,7 @@
   <a href="https://vicky123-hub.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-vicky123--hub.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://linkedin.com/in/vicky-kumar">
+  <a href="https://www.linkedin.com/in/vicky-kumar-b74620373">
     <img src="https://img.shields.io/badge/LinkedIn-Vicky%20Kumar-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:vsah51112@gmail.com">
