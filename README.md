@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vicky+Kumar!+👋;Computer+Science+Engineer+🎓;Full+Stack+Developer+💻;Machine+Learning+Enthusiast+🧠" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I%27m%20Vicky%20Kumar!%3BComputer%20Science%20Engineering%20Student%3BFull%20Stack%20Developer%3BMachine%20Learning%20Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -81,11 +81,7 @@ Vicky123-hub@github:~$ whoami
       </p>
       <hr />
       <p align="center">
-        <a href="https://vicky123-hub.github.io/portfolio/">
-          <img src="https://img.shields.io/badge/Play%20Demo-2980B9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Play Demo" height="25">
-        </a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/Vicky123-hub">
+        <a href="https://github.com/Vicky123-hub/Arcade-Nexus">
           <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" height="25">
         </a>
       </p>
@@ -224,10 +220,4 @@ Status: In Progress 🚀</pre>
   </p>
 </div>
 
----
 
-<h2 align="center">📈 GitHub Analytics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicky123-hub&show_icons=true&theme=tokyonight&count_private=true" alt="Vicky's GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicky123-hub&layout=compact&theme=tokyonight" alt="Top Langs" height="180">
-</p>
