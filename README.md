@@ -44,12 +44,12 @@ Vicky123-hub@github:~$ whoami
     <!-- Project 1: EduGuard -->
     <td width="50%" valign="top">
       <h3>🛡️ EduGuard</h3>
-      <p>A full-stack student management platform designed to identify academically at-risk students using data-driven insights. Features secure authentication, analytics dashboards, and REST APIs for efficient academic monitoring.</p>
+      <p>An AI-powered academic counseling and risk prediction system. Integrates a FastAPI backend, a React frontend, and a Random Forest ML classifier to analyze student risk factors and provide real-time conversational guidance.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
       </p>
       <p>
         <a href="https://github.com/Vicky123-hub/EduGaurd-test-">
@@ -93,10 +93,10 @@ Vicky123-hub@github:~$ whoami
     <!-- Project 4: Personal Financial Tracker -->
     <td width="50%" valign="top">
       <h3>💰 Personal Financial Tracker</h3>
-      <p>A Java-based expense and budget management application helping users track income, expenses, savings, and financial transactions with an intuitive interface and organized data management.</p>
+      <p>A console-based Personal Financial Tracker application written in Java. Supports managing transactions, CSV import/export, monthly category summaries, secure password protection, and automated budgeting tips.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+        <img src="https://img.shields.io/badge/CLI-4D4D4D?style=flat-square&logo=gnu-bash&logoColor=white" alt="CLI">
       </p>
       <p>
         <a href="https://github.com/Vicky123-hub/JavaPersonalFinancialTracker">
@@ -161,7 +161,8 @@ Status: In Progress 🚀</pre>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 - ⚙️ **Backend:** &nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"> &nbsp;
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 - 🤖 **Machine Learning:** &nbsp;
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> &nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> &nbsp;
